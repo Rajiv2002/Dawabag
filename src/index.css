@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.Hero {
+  background-image: url("./Assets/rs-module.png");
+  height: 75vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+/* Assuming the 'index.css' is in 'src' directory 
+.hero-background {
+  background-image: url('./Assets/FLogo.png');
+}*/
